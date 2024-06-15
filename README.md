@@ -119,7 +119,7 @@ git config –global user.name “YourUserName”
 9.	Once done select the workbench and Shell to install and complete the installation. Click Finish.  
 10.	Search MySQL Command Line on start menu to check if fully installed. Open and put the root password to open.
 
-7. Set Up Development Environments and Virtualization (Optional):
+<!-- 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
@@ -128,7 +128,8 @@ git config –global user.name “YourUserName”
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
+- A reflection on the challenges faced during setup and strategies employed to overcome them. -->
+
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
